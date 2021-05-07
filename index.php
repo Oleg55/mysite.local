@@ -14,8 +14,9 @@
 
     </header>
     <nav>
-        <a href="">урок 1</a>
-        <a href="">урок 2</a>
+        <a href="#">урок 1</a>
+        <a href="#">урок 2</a>
+        <a href="https://github.com/Oleg55/mysite.local">Ссылка на commit </a>
     </nav>
     <main>
 
