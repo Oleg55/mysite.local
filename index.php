@@ -10,5 +10,18 @@
     <?php 
         echo 'Hello, NIX Education';
     ?>
+    <header>
+
+    </header>
+    <nav>
+        <a href="">урок 1</a>
+        <a href="">урок 2</a>
+    </nav>
+    <main>
+
+    </main>
+    <footer>
+
+    </footer>
 </body>
 </html>
