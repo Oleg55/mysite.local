@@ -14,9 +14,13 @@
 
     </header>
     <nav>
-        <a href="#">урок 1</a>
-        <a href="#">урок 2</a>
-        <a href="https://github.com/Oleg55/mysite.local">Ссылка на commit </a>
+        <a href="/multiplication-table.php">урок 1</a>
+        <a href="https://github.com/Oleg55/mysite.local/commit/3402cb008fd4492fd6cf7167606d1150be58ac94">Ссылка на commit урок 1</a>
+        <a href="/multiplication-table-colors.php">урок 2</a>
+        <a href="https://github.com/Oleg55/mysite.local/commit/c6b8091e794aae2df60e4bcae0932d42b0edab62">Ссылка на commit урок 2</a>
+
+        
+        
     </nav>
     <main>
 
